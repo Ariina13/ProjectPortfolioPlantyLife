@@ -1,0 +1,47 @@
+.body {
+    background-color: rgb(158, 173, 150);   
+    height: 100%;  
+
+}
+
+.heading {
+    font-size: 1em;
+    color: white;
+    height: 50px;
+    padding-top: 10px;
+}
+.container-flex{
+    padding: 10px;
+}
+
+.header {
+    margin-bottom: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    text-align: center;
+}
+
+
+.main {
+    padding: 20px;
+}
+
+
+.footer {
+    margin-top: 50px;
+    border-top-style: solid;
+    border-top-color: white;
+    text-align: center;
+    color: white;
+    font-size: 0.8em;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
